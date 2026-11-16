@@ -1,0 +1,5 @@
+{
+  "name": "claude-code-mods",
+  "owner": { "name": "surpris" },
+  "plugins": [{ "name": "wsl-path-links", "source": "./wsl-path-links" }]
+}

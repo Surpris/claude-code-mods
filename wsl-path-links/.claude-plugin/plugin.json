@@ -1,0 +1,6 @@
+{
+  "name": "wsl-path-links",
+  "version": "0.2.0",
+  "description": "Makes local paths in Claude's replies clickable on WSL: a file opens in a viewer pane, a directory in Windows Explorer",
+  "types": "./types/index.d.ts"
+}
